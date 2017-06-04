@@ -41,3 +41,5 @@ OAUTH_PROVIDER_URI	 | URL of the OAuth Provider (in the shape http(s)://domain.t
 UPSTREAM_HOSTNAME	 | The name (or IP) to reach the actual service that should be secured (e.g. another Container containing the webapp)
 UPSTREAM_PORT		 | Port to reach the service that should be proxied
 REPLACE_CALLBACK	 | If you provide an injection module (inject Logout-Button...) this variable tells which module and function should be called (shape: module:method)
+
+To use the injection functionality, you only have to place a self-written Python module inside the repositories folder and rebuild the docker image. As template you can look into etherpad.py
