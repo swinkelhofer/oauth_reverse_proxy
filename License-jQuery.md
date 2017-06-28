@@ -1,4 +1,5 @@
-#MIT License
+MIT License
+===========
 
 Copyright JS Foundation and other contributors, https://js.foundation/
 
@@ -9,7 +10,6 @@ available at https://github.com/jquery/jquery
 The following license applies to all parts of this software except as
 documented below:
 
-====
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -30,7 +30,6 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-====
 
 All files located in the node_modules and external directories are
 externally maintained libraries used by this software which have their
